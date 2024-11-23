@@ -1,4 +1,4 @@
-this is mu first project using basic HTML. its simple website that showcases a collection of recipes.By completing this project,I'm demonstrating my ability to:
+this is my first project using basic HTML. its simple website that showcases a collection of recipes.By completing this project,I'm demonstrating my ability to:
 
 . Use basic HTML structure and elements.
 .Create links between pages in a website.
